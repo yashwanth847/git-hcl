@@ -1,1 +1,9 @@
 file1
+hotfix_branch
+new
+=======
+new updated file1 ----- 
+ future_branch1
+=======
+new updated
+ future_branch1
